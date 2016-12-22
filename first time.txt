@@ -1,1 +1,3 @@
 Excel today,year,month,day,weekday,weeknum,date
+Searching repositories
+To search for repositories, use the following search qualifiers in any combination.
