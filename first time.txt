@@ -1,3 +1,3 @@
 Excel today,year,month,day,weekday,weeknum,date
 Searching repositories
-To search for repositories, use the following search qualifiers in any combination.
+To search for repositories, use the following search qualifiers in any combination.The in qualifier limits what fields are searched. With this qualifier you can restrict the search to just the repository name, description, README, or any combination of these. Without the qualifier, only the name and description are searched.
